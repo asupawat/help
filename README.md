@@ -12,3 +12,5 @@ azpool
 https://gateway.btfs.io/btfs/QmZ7HGu9rKhfRSkFiDqdfjESx99X2yRqZXYMAyVknW2ANu?filename=themeforest-h4onLmOP-cryptoland-ico-landing-pages-cryptocurrency-html-pack.zip
 
 https://www.pugetsystems.com/labs/hpc/Note-Setup-Git-for-PowerShell-on-Windows-10-1653/
+
+https://docs.google.com/spreadsheets/d/1ttIK-TQwwWeY4XarapjKAYJIgDJ5Kk9yjvBPLIlrpdg/edit#gid=0
